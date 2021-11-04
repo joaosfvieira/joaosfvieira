@@ -3,7 +3,7 @@
 ## I'm an undergraduate student in Information Technology at UFRN (Universidade Federal do Rio Grande do Norte). I'm a Brazilian who has the goal of studying, working and living abroad!
 
 - 🔭 I'm currently working on a Discord local backend clone, my third project programming :)
-- 🌱 I’m currently learning C/C++ and starting Java soon
+- 🌱 I’m currently learning Java, and have learned C/C++ until now during my course
 - 👯 I’m looking to develop my Object-oriented programming 
 - 🥅 2021 Goals: Geting my first Internship!
 - ⚡ Fun fact: I love sports, specially volleyball, my two dogs and gaming!
