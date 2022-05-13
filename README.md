@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-![Linkedin Badge](https://img.shields.io/badge/-joaosfvieira-blue??style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-souza-367a581a3)
-![Instagram Badge](https://img.shields.io/badge/-joaodsouzs-E4405F??style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joaodsouzs/)
-![Gmail Badge](https://img.shields.io/badge/-joaosouzafvieira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaosouzafvieira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-joaosfvieira-blue??style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-souza-367a581a3)](https://www.linkedin.com/in/joão-souza-367a581a3)
+[![Instagram Badge](https://img.shields.io/badge/-joaodsouzs-E4405F??style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joaodsouzs/)](https://www.instagram.com/joaodsouzs/)
+[![Gmail Badge](https://img.shields.io/badge/-joaosouzafvieira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaosouzafvieira@gmail.com)](mailto:joaosouzafvieira@gmail.com)
 
 ### Languages and Tools:
 
