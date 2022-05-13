@@ -1,28 +1,28 @@
 ### Hello, I'm João 👋
 
-## I'm an undergraduate student in Information Technology at UFRN (Universidade Federal do Rio Grande do Norte). I'm a Brazilian who has the goal of studying, working and living abroad!
+## I'm an majoring in Information Technology, Software Development minor, at UFRN (Universidade Federal do Rio Grande do Norte). I'm a Brazilian who has the goal of studying, working and living abroad!
+## I'm an intern at the IT sector within SEBRAE/RN, a company with over 150 employees
 
-- 🔭 I'm currently working on a Discord local backend clone, my third project programming :)
-- 🌱 I’m currently learning Java, and have learned C/C++ until now during my course
-- 👯 I’m looking to develop my Object-oriented programming 
-- 🥅 2021 Goals: Geting my first Internship!
-- ⚡ Fun fact: I love sports, specially volleyball, my two dogs and gaming!
+- 🔭 I'm currently working on containerizing a spring boot REST API that i developed with my senior colleague at my internship 
+- 🌱 I’m currently learning spring boot, docker and CI/CD
+- 👯 I’m looking to develop my programming and DevOps skills 
+- 🥅 2022 Goals: be a part of big development projects within the company i work on 
+- ⚡ Fun fact: I'm a semi-professional valorant player and i have a black cat named Linus
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-joaosfvieira-blue??style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-souza-367a581a3)
+[![Instagram Badge](https://img.shields.io/badge/-joaodsouzs-E4405F??style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joaodsouzs/)
+[![Gmail Badge](https://img.shields.io/badge/-joaosouzafvieira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaosouzafvieira@gmail.com)
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
-[instagram]: https://www.instagram.com/joaodsouzs/
-[linkedin]: https://www.linkedin.com/in/jo%C3%A3o-souza-367a581a3
+https://img.shields.io/badge/Java-ED8B00??style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Spring-6DB33F??style=for-the-badge&logo=spring&logoColor=white
+https://img.shields.io/badge/Spring_Boot-F2F4F9??style=for-the-badge&logo=spring-boot
+https://img.shields.io/badge/Docker-2CA5E0??style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/GitHub-100000??style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF??style=for-the-badge&logo=github-actions&logoColor=white
+https://img.shields.io/badge/MySQL-005C84??style=for-the-badge&logo=mysql&logoColor=white
