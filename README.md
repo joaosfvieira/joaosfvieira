@@ -15,11 +15,9 @@
 ![Instagram Badge](https://img.shields.io/badge/-joaodsouzs-E4405F??style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joaodsouzs/)
 ![Gmail Badge](https://img.shields.io/badge/-joaosouzafvieira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaosouzafvieira@gmail.com)
 
-<br />
-
 ### Languages and Tools:
 
-![Java Badge](https://img.shields.io/badge/Java-ED8B00??style=for-the-badge&logo=java&logoColor=white)
+![Java Badge]
 https://img.shields.io/badge/Spring-6DB33F??style=for-the-badge&logo=spring&logoColor=white
 https://img.shields.io/badge/Spring_Boot-F2F4F9??style=for-the-badge&logo=spring-boot
 https://img.shields.io/badge/Docker-2CA5E0??style=for-the-badge&logo=docker&logoColor=white
