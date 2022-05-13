@@ -17,10 +17,10 @@
 
 ### Languages and Tools:
 
-![Java Badge]
-https://img.shields.io/badge/Spring-6DB33F??style=for-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Spring_Boot-F2F4F9??style=for-the-badge&logo=spring-boot
-https://img.shields.io/badge/Docker-2CA5E0??style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/GitHub-100000??style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/GitHub_Actions-2088FF??style=for-the-badge&logo=github-actions&logoColor=white
-https://img.shields.io/badge/MySQL-005C84??style=for-the-badge&logo=mysql&logoColor=white
+![Java Badge](https://img.shields.io/badge/Java-ED8B00??style=for-the-badge&logo=java&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F??style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9??style=for-the-badge&logo=spring-boot)
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0??style=for-the-badge&logo=docker&logoColor=white)
+![Github Badge](https://img.shields.io/badge/GitHub-100000??style=for-the-badge&logo=github&logoColor=white)
+![Github Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF??style=for-the-badge&logo=github-actions&logoColor=white)
+![My Sql Badge](https://img.shields.io/badge/MySQL-005C84??style=for-the-badge&logo=mysql&logoColor=white)
