@@ -1,6 +1,6 @@
 ### Hello, I'm João 👋
 
-## I'm an majoring in Information Technology, Software Development minor, at UFRN (Universidade Federal do Rio Grande do Norte). I'm a Brazilian who has the goal of studying, working and living abroad!
+## I'm majoring in Information Technology, Software Development minor, at UFRN (Universidade Federal do Rio Grande do Norte). I'm a Brazilian who has the goal of studying, working and living abroad!
 ## I'm an intern at the IT sector within SEBRAE/RN, a company with over 150 employees
 
 - 🔭 I'm currently working on containerizing a spring boot REST API that i developed with my senior colleague at my internship 
